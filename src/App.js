@@ -17,7 +17,7 @@ export default function App() {
   return (
     <Router>
       <div className="App">
-        <h1>React Router Dom Deneme </h1>
+        <h1>React Router Dom </h1>
       </div>
       <Route
         path="/"
